@@ -5,11 +5,9 @@ This is a simple Django-based web application that automates fetching the latest
 ---
 ## Screenshot
 
-Here is a sample of the working user interface.
-
-<!--
 ![News Dashboard UI](screenshot.png)
--->
+
+
 
 
 
